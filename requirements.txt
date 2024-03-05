@@ -1,0 +1,5 @@
+opencv_python==4.8.0.76
+pygame==2.5.2
+roboflow==1.1.21
+supervision==0.18.0
+depthai==2.24.0.0
